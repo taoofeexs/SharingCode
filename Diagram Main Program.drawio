@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T22:30:34.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="88BTeZNi2vCOR5BWfKSu" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T22:37:06.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vLrJRPgpQWdLE34yx3Lf" version="24.0.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1534" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,7 +406,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6mjk4-27FrQg_kHxcmd-74" value="Formula: &#39;n&#39;&#xa;&#39;n&#39;    &#39;t&#39; Second" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_6mjk4-27FrQg_kHxcmd-74" value="Formula: &#39;n&#39;&#xa;&#39;Pn&#39;    &#39;t&#39; Second" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="446" y="197.75" width="144" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="_6mjk4-27FrQg_kHxcmd-77" value="Penutupan Akses Modbus," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
