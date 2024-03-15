@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T06:15:09.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TVn78BmD8s_oAX-d1Eux" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T06:16:44.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Kw7mTOQVTZdS67G9INf8" version="24.0.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3036" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2652" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,13 +303,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6mjk4-27FrQg_kHxcmd-130" value="Sensor AC/DC Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="_6mjk4-27FrQg_kHxcmd-130" value="Sensor AC/DC Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="130.56" y="730" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_6mjk4-27FrQg_kHxcmd-131" value="Matrix Array" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_6mjk4-27FrQg_kHxcmd-131" value="Matrix Array" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="398.81" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_6mjk4-27FrQg_kHxcmd-132" value="Pompa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="_6mjk4-27FrQg_kHxcmd-132" value="Pompa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="536.44" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
