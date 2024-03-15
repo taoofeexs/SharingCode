@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T06:18:54.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KVFMfbz_ZZTKb3JqD1vp" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T06:20:51.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sPsBVLNPJbH_9Dc9VZ42" version="24.0.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2134" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,14 +271,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WiRwgJ6gsVXXDse-BNaT-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mjk4-27FrQg_kHxcmd-130" target="_6mjk4-27FrQg_kHxcmd-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_6mjk4-27FrQg_kHxcmd-130" value="Sensor AC/DC Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="110.56" y="555.5" width="240" height="60" as="geometry" />
+          <mxGeometry x="170" y="570" width="149.44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WiRwgJ6gsVXXDse-BNaT-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mjk4-27FrQg_kHxcmd-131" target="_6mjk4-27FrQg_kHxcmd-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WiRwgJ6gsVXXDse-BNaT-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6mjk4-27FrQg_kHxcmd-131" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="529" />
+              <mxPoint x="380" y="529" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_6mjk4-27FrQg_kHxcmd-131" value="Matrix Array" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
-          <mxGeometry x="378.81" y="545.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="339" y="552" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_6mjk4-27FrQg_kHxcmd-132" value="Pompa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="516.44" y="555.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="433.75" y="571" width="108" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
